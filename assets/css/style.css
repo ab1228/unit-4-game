@@ -1,0 +1,8 @@
+body {
+    min-height: 100vh;
+    background: url(../images/maxresdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+
+}
